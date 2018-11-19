@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+### User stories, use cases si user flows
 
-You can use the [editor on GitHub](https://github.com/book-a-table/u_scf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. User stories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Ca utilizator vreau sa am posibilitatea de a cauta un local dupa nume, oras, tip si bucatarie pentru a imi rezerva o masa
+- Ca utilizator vreau sa am posibilitatea de a face o rezervare la localul gasit pentru a fi sigur ca voi avea o masa rezervata
+- Ca utilizator vreau sa am posibilitatea de a vedea meniul online pentru a face comanda din timp
+- Ca utilizator vreau sa am posibilitatea sa imi creez un grup in care sa pot adauga oameni pentru a gestiona mai usor rezervarile si comenzile online
+- Ca utilizator vreau sa am posibilitatea de a plati nota de plata online pentru a nu mai fi nevoie sa astept dupa nota de plata
 
-### Markdown
+---------------------------------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. User case
 
-```markdown
-Syntax highlighted code block
+- Utilizatorul vrea sa iasa la pauza de masa impreuna cu colegii. Decide sa foloseasca aplicatia BookATable. Isi creeaza un grup si adauga fiecare membru al echipei. Dupa ce rezerva masa, toti membri grupului isi comanda de mancare. O data ajunsi la local ei au totul cald fara sa astepte mult dupa mancare. Fiecare isi plateste nota de plata si toti se introc la lucru.
+- Utilizatorul vrea sa iasa seara impreuna cu familia, dar nu vor sa petreaca mult timp la masa pentru ca urmeaza sa mearga la film. El cauta localul preferat si face comanda pentru tori membrii familiei. O data ajuns la restaurant ei au mancarea pregatita fara sa astepte prea mult. Se mai decide sa cumpere ceva asa ca o face cu ajutorul aplicatiei. Dupa ce toti au servit masa el plateste nota de plata cu ajutorul aplicatiei.
 
-# Header 1
-## Header 2
-### Header 3
+---------------------------------------------------------
 
-- Bulleted
-- List
+3. User flow
 
-1. Numbered
-2. List
+- Utilizatorul ajunge pe pagina principala unde are posibilitatea sa caute un local dupa nume, oras, tip sau bucatarie
+- Utilizatorul ajunge pe pagina unde isi alege pe ce data si la ce ora va ajunge la local
+- Utilizatorul alege cati insotitori va avea sau creaza un grup si adauga noi membri
+- Utilizatorul apasa pe butonul de rezervare
+- Utilizatorul se logheaza si este notificat ca rezervarea a fost efectuata
+- Utilizatorul are optiunea sa comande mancare
+- Utilizatorul are optiunea sa plateasca comanda
+- Utilizatorul are in permanenta informatiile despre comenzi in profilul paginii
 
-**Bold** and _Italic_ and `Code` text
+---------------------------------------------------------
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/book-a-table/u_scf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [Pagina de prezentare](https://book-a-table.github.io/fiki/)
